@@ -1,0 +1,31 @@
+.food-img {
+    width: 300px;
+    height: auto;
+}
+.text,
+a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title {
+    color: maroon;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.section {
+    color: navy;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.sub-section {
+    color: navy;
+    font-size: 14px;
+}
+
+.content {
+    color: black;
+    font-size: 12px;
+}
+
